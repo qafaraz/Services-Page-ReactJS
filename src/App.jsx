@@ -13,7 +13,7 @@ function App() {
     <>
       <Header />
       <main >
-        <section className="bg-[url(./image/heroImage.png)] h-[500px] w-full bg-no-repeat bg-center bg-cover relative flex items-center justify-center">
+        <section className="bg-[url('/image/heroImage.png')] h-[500px] w-full bg-no-repeat bg-center bg-cover relative flex items-center justify-center">
           <h1 className="text-white text-4xl font-bold">
             Korporativ Əməkdaşlıq
           </h1>
